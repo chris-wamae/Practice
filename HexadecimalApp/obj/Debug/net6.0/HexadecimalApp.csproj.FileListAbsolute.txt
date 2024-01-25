@@ -1,0 +1,14 @@
+C:\Users\chris\development\practice\HexadecimalApp\bin\Debug\net6.0\HexadecimalApp.exe
+C:\Users\chris\development\practice\HexadecimalApp\bin\Debug\net6.0\HexadecimalApp.deps.json
+C:\Users\chris\development\practice\HexadecimalApp\bin\Debug\net6.0\HexadecimalApp.runtimeconfig.json
+C:\Users\chris\development\practice\HexadecimalApp\bin\Debug\net6.0\HexadecimalApp.dll
+C:\Users\chris\development\practice\HexadecimalApp\bin\Debug\net6.0\HexadecimalApp.pdb
+C:\Users\chris\development\practice\HexadecimalApp\obj\Debug\net6.0\HexadecimalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\development\practice\HexadecimalApp\obj\Debug\net6.0\HexadecimalApp.AssemblyInfoInputs.cache
+C:\Users\chris\development\practice\HexadecimalApp\obj\Debug\net6.0\HexadecimalApp.AssemblyInfo.cs
+C:\Users\chris\development\practice\HexadecimalApp\obj\Debug\net6.0\HexadecimalApp.csproj.CoreCompileInputs.cache
+C:\Users\chris\development\practice\HexadecimalApp\obj\Debug\net6.0\HexadecimalApp.dll
+C:\Users\chris\development\practice\HexadecimalApp\obj\Debug\net6.0\refint\HexadecimalApp.dll
+C:\Users\chris\development\practice\HexadecimalApp\obj\Debug\net6.0\HexadecimalApp.pdb
+C:\Users\chris\development\practice\HexadecimalApp\obj\Debug\net6.0\HexadecimalApp.genruntimeconfig.cache
+C:\Users\chris\development\practice\HexadecimalApp\obj\Debug\net6.0\ref\HexadecimalApp.dll
