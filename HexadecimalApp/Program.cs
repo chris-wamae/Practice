@@ -1,3 +1,3 @@
 ﻿using DecimalToHexadecimal;
 
-DecimalToHexadecimalConverter.Rgb(189, 204, 155);
+DecimalToHexadecimalConverter.Rgb(12,12, 12);
