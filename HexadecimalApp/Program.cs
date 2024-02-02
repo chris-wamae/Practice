@@ -1,3 +1,7 @@
-﻿using DecimalToHexadecimal;
+﻿//using DecimalToHexadecimal;
 
-DecimalToHexadecimalConverter.Rgb(12,12, 12);
+//DecimalToHexadecimalConverter.Rgb(12,12, 12);
+
+
+
+Console.WriteLine(typeof(DateTime));
