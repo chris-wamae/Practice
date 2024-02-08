@@ -1,0 +1,14 @@
+C:\Users\chris\development\practice\NonRepeatingCharacter\bin\Debug\net6.0\NonRepeatingCharacter.exe
+C:\Users\chris\development\practice\NonRepeatingCharacter\bin\Debug\net6.0\NonRepeatingCharacter.deps.json
+C:\Users\chris\development\practice\NonRepeatingCharacter\bin\Debug\net6.0\NonRepeatingCharacter.runtimeconfig.json
+C:\Users\chris\development\practice\NonRepeatingCharacter\bin\Debug\net6.0\NonRepeatingCharacter.dll
+C:\Users\chris\development\practice\NonRepeatingCharacter\bin\Debug\net6.0\NonRepeatingCharacter.pdb
+C:\Users\chris\development\practice\NonRepeatingCharacter\obj\Debug\net6.0\NonRepeatingCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\development\practice\NonRepeatingCharacter\obj\Debug\net6.0\NonRepeatingCharacter.AssemblyInfoInputs.cache
+C:\Users\chris\development\practice\NonRepeatingCharacter\obj\Debug\net6.0\NonRepeatingCharacter.AssemblyInfo.cs
+C:\Users\chris\development\practice\NonRepeatingCharacter\obj\Debug\net6.0\NonRepeatingCharacter.csproj.CoreCompileInputs.cache
+C:\Users\chris\development\practice\NonRepeatingCharacter\obj\Debug\net6.0\NonRepeatingCharacter.dll
+C:\Users\chris\development\practice\NonRepeatingCharacter\obj\Debug\net6.0\refint\NonRepeatingCharacter.dll
+C:\Users\chris\development\practice\NonRepeatingCharacter\obj\Debug\net6.0\NonRepeatingCharacter.pdb
+C:\Users\chris\development\practice\NonRepeatingCharacter\obj\Debug\net6.0\NonRepeatingCharacter.genruntimeconfig.cache
+C:\Users\chris\development\practice\NonRepeatingCharacter\obj\Debug\net6.0\ref\NonRepeatingCharacter.dll
