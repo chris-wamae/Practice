@@ -1,0 +1,14 @@
+C:\Users\chris\development\practice\RecreationOne\obj\Debug\net6.0\RecreationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\development\practice\RecreationOne\obj\Debug\net6.0\RecreationOne.AssemblyInfoInputs.cache
+C:\Users\chris\development\practice\RecreationOne\obj\Debug\net6.0\RecreationOne.AssemblyInfo.cs
+C:\Users\chris\development\practice\RecreationOne\obj\Debug\net6.0\RecreationOne.csproj.CoreCompileInputs.cache
+C:\Users\chris\development\practice\RecreationOne\bin\Debug\net6.0\RecreationOne.exe
+C:\Users\chris\development\practice\RecreationOne\bin\Debug\net6.0\RecreationOne.deps.json
+C:\Users\chris\development\practice\RecreationOne\bin\Debug\net6.0\RecreationOne.runtimeconfig.json
+C:\Users\chris\development\practice\RecreationOne\bin\Debug\net6.0\RecreationOne.dll
+C:\Users\chris\development\practice\RecreationOne\bin\Debug\net6.0\RecreationOne.pdb
+C:\Users\chris\development\practice\RecreationOne\obj\Debug\net6.0\RecreationOne.dll
+C:\Users\chris\development\practice\RecreationOne\obj\Debug\net6.0\refint\RecreationOne.dll
+C:\Users\chris\development\practice\RecreationOne\obj\Debug\net6.0\RecreationOne.pdb
+C:\Users\chris\development\practice\RecreationOne\obj\Debug\net6.0\RecreationOne.genruntimeconfig.cache
+C:\Users\chris\development\practice\RecreationOne\obj\Debug\net6.0\ref\RecreationOne.dll

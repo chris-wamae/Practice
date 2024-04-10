@@ -1,0 +1,14 @@
+C:\Users\chris\development\practice\BreakCamelCase\bin\Debug\net6.0\BreakCamelCase.exe
+C:\Users\chris\development\practice\BreakCamelCase\bin\Debug\net6.0\BreakCamelCase.deps.json
+C:\Users\chris\development\practice\BreakCamelCase\bin\Debug\net6.0\BreakCamelCase.runtimeconfig.json
+C:\Users\chris\development\practice\BreakCamelCase\bin\Debug\net6.0\BreakCamelCase.dll
+C:\Users\chris\development\practice\BreakCamelCase\bin\Debug\net6.0\BreakCamelCase.pdb
+C:\Users\chris\development\practice\BreakCamelCase\obj\Debug\net6.0\BreakCamelCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\development\practice\BreakCamelCase\obj\Debug\net6.0\BreakCamelCase.AssemblyInfoInputs.cache
+C:\Users\chris\development\practice\BreakCamelCase\obj\Debug\net6.0\BreakCamelCase.AssemblyInfo.cs
+C:\Users\chris\development\practice\BreakCamelCase\obj\Debug\net6.0\BreakCamelCase.csproj.CoreCompileInputs.cache
+C:\Users\chris\development\practice\BreakCamelCase\obj\Debug\net6.0\BreakCamelCase.dll
+C:\Users\chris\development\practice\BreakCamelCase\obj\Debug\net6.0\refint\BreakCamelCase.dll
+C:\Users\chris\development\practice\BreakCamelCase\obj\Debug\net6.0\BreakCamelCase.pdb
+C:\Users\chris\development\practice\BreakCamelCase\obj\Debug\net6.0\BreakCamelCase.genruntimeconfig.cache
+C:\Users\chris\development\practice\BreakCamelCase\obj\Debug\net6.0\ref\BreakCamelCase.dll

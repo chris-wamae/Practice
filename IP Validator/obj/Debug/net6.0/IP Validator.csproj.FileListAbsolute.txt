@@ -1,0 +1,14 @@
+C:\Users\chris\development\practice\IP Validator\bin\Debug\net6.0\IP Validator.exe
+C:\Users\chris\development\practice\IP Validator\bin\Debug\net6.0\IP Validator.deps.json
+C:\Users\chris\development\practice\IP Validator\bin\Debug\net6.0\IP Validator.runtimeconfig.json
+C:\Users\chris\development\practice\IP Validator\bin\Debug\net6.0\IP Validator.dll
+C:\Users\chris\development\practice\IP Validator\bin\Debug\net6.0\IP Validator.pdb
+C:\Users\chris\development\practice\IP Validator\obj\Debug\net6.0\IP Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\development\practice\IP Validator\obj\Debug\net6.0\IP Validator.AssemblyInfoInputs.cache
+C:\Users\chris\development\practice\IP Validator\obj\Debug\net6.0\IP Validator.AssemblyInfo.cs
+C:\Users\chris\development\practice\IP Validator\obj\Debug\net6.0\IP Validator.csproj.CoreCompileInputs.cache
+C:\Users\chris\development\practice\IP Validator\obj\Debug\net6.0\IP Validator.dll
+C:\Users\chris\development\practice\IP Validator\obj\Debug\net6.0\refint\IP Validator.dll
+C:\Users\chris\development\practice\IP Validator\obj\Debug\net6.0\IP Validator.pdb
+C:\Users\chris\development\practice\IP Validator\obj\Debug\net6.0\IP Validator.genruntimeconfig.cache
+C:\Users\chris\development\practice\IP Validator\obj\Debug\net6.0\ref\IP Validator.dll

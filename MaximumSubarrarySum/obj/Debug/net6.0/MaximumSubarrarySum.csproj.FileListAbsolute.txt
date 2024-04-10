@@ -1,0 +1,14 @@
+C:\Users\chris\development\practice\MaximumSubarrarySum\bin\Debug\net6.0\MaximumSubarrarySum.exe
+C:\Users\chris\development\practice\MaximumSubarrarySum\bin\Debug\net6.0\MaximumSubarrarySum.deps.json
+C:\Users\chris\development\practice\MaximumSubarrarySum\bin\Debug\net6.0\MaximumSubarrarySum.runtimeconfig.json
+C:\Users\chris\development\practice\MaximumSubarrarySum\bin\Debug\net6.0\MaximumSubarrarySum.dll
+C:\Users\chris\development\practice\MaximumSubarrarySum\bin\Debug\net6.0\MaximumSubarrarySum.pdb
+C:\Users\chris\development\practice\MaximumSubarrarySum\obj\Debug\net6.0\MaximumSubarrarySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\development\practice\MaximumSubarrarySum\obj\Debug\net6.0\MaximumSubarrarySum.AssemblyInfoInputs.cache
+C:\Users\chris\development\practice\MaximumSubarrarySum\obj\Debug\net6.0\MaximumSubarrarySum.AssemblyInfo.cs
+C:\Users\chris\development\practice\MaximumSubarrarySum\obj\Debug\net6.0\MaximumSubarrarySum.csproj.CoreCompileInputs.cache
+C:\Users\chris\development\practice\MaximumSubarrarySum\obj\Debug\net6.0\MaximumSubarrarySum.dll
+C:\Users\chris\development\practice\MaximumSubarrarySum\obj\Debug\net6.0\refint\MaximumSubarrarySum.dll
+C:\Users\chris\development\practice\MaximumSubarrarySum\obj\Debug\net6.0\MaximumSubarrarySum.pdb
+C:\Users\chris\development\practice\MaximumSubarrarySum\obj\Debug\net6.0\MaximumSubarrarySum.genruntimeconfig.cache
+C:\Users\chris\development\practice\MaximumSubarrarySum\obj\Debug\net6.0\ref\MaximumSubarrarySum.dll
