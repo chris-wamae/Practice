@@ -7,82 +7,42 @@ using System.Threading.Tasks;
 
 namespace NonRepeatingCharacter
 {
+
     public class Kata
     {
         public static string FirstNonRepeatingLetter(string s)
-        {
+        {   
+            string st = s.ToLower();
+            int length = s.Length;
+            string resultString = "";
+            bool hasRun = false;
+            Dictionary<char, int> charDictionary = new Dictionary<char, int>();
 
-            string Tester(char t, char[] charArray)
+            for (int i = 0; i < length; i++)
             {
-                string passChar = "";
-                //can we avoid this list?
+                charDictionary[st[i]] = 0;
+            }
 
-                List<char> charList = new List<char>();
+            for (int i = 0; i < length; i++)
+            {
+               charDictionary[st[i]] += 1;
+            }
 
-                for (int i = 0; i < charArray.Length; i++)
+            for (int i = 0; i < length; i++)
+            {
+            if (charDictionary[st[i]] == 1 && !hasRun)
                 {
-                    if (Char.ToLower(charArray[i]) == Char.ToLower(t))
-                    {
-                        charList.Add(charArray[i]);
-                    }
+                        resultString = s[i].ToString();
+                        hasRun = true;
                 }
-
-                if (charList.Count == 0)
-                {
-                    passChar = t.ToString();
-                };
-
-                return passChar;
             }
 
-
-
-
-            //;
-
-            //void Looper() { }
-            //;
-
-            //take the first character
-            //compare it to all other characters
-            //stop if it is not repeated and return it as a string
-            //take second character
-            //compare it to all other characters
-            //stop if it is not repeated and return it as a string etc...
-
-            string StringSorter(string s, int index)
-            {
-                char[] allCharacters = s.ToCharArray();
-                char test = allCharacters[index];
-                char[] remainingCharacters = new char[allCharacters.Length];
-
-                 for(int c = 0;c < allCharacters.Length; c++) 
-                { 
-                 if(c != index)
-                    {
-                        remainingCharacters[c] = allCharacters[c];
-                    }
-                }
-
-                // foreach(char c in remainingCharacters) 
-                //{
-                //Console.WriteLine($"This is the character {c}");
-                
-                //}
-
-                 return Tester(test, remainingCharacters);
-
-            }
-
-            string foundString = "";
-
-             for(int i = 0;i < s.Length && foundString == "";i++) 
-            {
-               foundString =  StringSorter(s, i);
-            }
-
-             return foundString;
-
+            return resultString;
         }
     }
+
 }
+
+
+
+

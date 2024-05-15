@@ -1,0 +1,14 @@
+C:\Users\chris\development\practice\MostFrequentlyUsedWords\bin\Debug\net6.0\MostFrequentlyUsedWords.exe
+C:\Users\chris\development\practice\MostFrequentlyUsedWords\bin\Debug\net6.0\MostFrequentlyUsedWords.deps.json
+C:\Users\chris\development\practice\MostFrequentlyUsedWords\bin\Debug\net6.0\MostFrequentlyUsedWords.runtimeconfig.json
+C:\Users\chris\development\practice\MostFrequentlyUsedWords\bin\Debug\net6.0\MostFrequentlyUsedWords.dll
+C:\Users\chris\development\practice\MostFrequentlyUsedWords\bin\Debug\net6.0\MostFrequentlyUsedWords.pdb
+C:\Users\chris\development\practice\MostFrequentlyUsedWords\obj\Debug\net6.0\MostFrequentlyUsedWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\development\practice\MostFrequentlyUsedWords\obj\Debug\net6.0\MostFrequentlyUsedWords.AssemblyInfoInputs.cache
+C:\Users\chris\development\practice\MostFrequentlyUsedWords\obj\Debug\net6.0\MostFrequentlyUsedWords.AssemblyInfo.cs
+C:\Users\chris\development\practice\MostFrequentlyUsedWords\obj\Debug\net6.0\MostFrequentlyUsedWords.csproj.CoreCompileInputs.cache
+C:\Users\chris\development\practice\MostFrequentlyUsedWords\obj\Debug\net6.0\MostFrequentlyUsedWords.dll
+C:\Users\chris\development\practice\MostFrequentlyUsedWords\obj\Debug\net6.0\refint\MostFrequentlyUsedWords.dll
+C:\Users\chris\development\practice\MostFrequentlyUsedWords\obj\Debug\net6.0\MostFrequentlyUsedWords.pdb
+C:\Users\chris\development\practice\MostFrequentlyUsedWords\obj\Debug\net6.0\MostFrequentlyUsedWords.genruntimeconfig.cache
+C:\Users\chris\development\practice\MostFrequentlyUsedWords\obj\Debug\net6.0\ref\MostFrequentlyUsedWords.dll
